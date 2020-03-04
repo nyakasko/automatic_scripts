@@ -17,7 +17,7 @@ June 2019
 
 ## Notes
 
-Make sure you set the following path under ~/.bashrc on NVIDIA Platform
+Make sure you set the following path under ~/.bashrc on NVIDIA Platform_
 ```bash
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib:/usr/lib/aarch64-linux-gnu
 ```
